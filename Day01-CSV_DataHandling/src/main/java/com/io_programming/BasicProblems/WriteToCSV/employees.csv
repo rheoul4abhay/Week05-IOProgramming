@@ -1,5 +1,5 @@
-ID, Name, Department, Salary($)
-101, Abhay, Sales, 500.0
-102, Samay, Accounts, 500.0
-103, Reyna, Management, 400.0
-104, Mikey, Consultancy, 350.0
+"ID","Name","Department","Salary"
+"101","Abhay","Sales","2500.0"
+"102","Samay","Accounts","1500.0"
+"103","Reyna","Management","3500.0"
+"104","Mikey","Consultancy","500.0"
